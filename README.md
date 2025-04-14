@@ -101,17 +101,23 @@ After running the seeders, you can log in with these default credentials:
 
 - **Admin Account**
   - Email: admin@bms.com
-  - Password: password
+  - Password: Admin123
 
-- **Hospital Account**
+- **Hospital Account** Register your account to a system
+  for example:
+  login use: your created account 
   - Email: hospital@bms.com
   - Password: password
 
-- **Donor Account**
+- **Donor Account** Register your account to a system
+  for example:
+  login use: your created account
   - Email: donor@bms.com
   - Password: password
 
-- **Patient Account**
+- **Patient Account** Register your account to a system
+  for example:
+  login use: your created account
   - Email: patient@bms.com
   - Password: password
 
